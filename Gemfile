@@ -15,6 +15,7 @@ group :production do
 end
 
 gem 'devise'
+gem 'gravtastic'
 
 gem 'carrierwave'
 gem 'mini_magick', '4.8.0'
